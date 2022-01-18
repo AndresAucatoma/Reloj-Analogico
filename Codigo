@@ -65,7 +65,7 @@ void loop ()
      //////////////////////////////////////////////////
  
      
-       
+    // El codigo se dividio en 60 puntos los cuales marcan cada minuto que tiene 1 hora.   
     //////////////////////////////////FFFF////////////////////////////////   
        //0
     if ( cuad == 1 ) {
