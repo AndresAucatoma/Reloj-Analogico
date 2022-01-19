@@ -21,7 +21,7 @@ int hora = 10;
 int cuad = 1;
 
 
-int sep = 860;   // espacio entre puntos cuadrante
+int sep = 1060;   // espacio entre puntos cuadrante
 
 
 //Configuracion Pines 
